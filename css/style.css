@@ -281,6 +281,13 @@ footer p a:hover {
   footer p {
     text-align: center;
   }
+
+  .navbar-collapse .btn.btn-success {
+    display: block;
+    margin: 10px auto;
+    width: 140px;
+    text-align: center;
+  }
 }
 
 /* Medium (md) */
